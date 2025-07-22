@@ -61,5 +61,5 @@ A full-stack authentication system built with the MERN stack (MongoDB, Express.j
    -   Account is activated in the database.
    -   Only verified accounts can log in.
 
-## 📁 Folder Structure
+
 
